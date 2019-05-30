@@ -1,0 +1,30 @@
+
+
+肖贺. HEVC 关键技术研究暨并行技术研究[D]. 北京邮电大学, 2018.
+严顺卿. HEVC 帧内预测快速模式选择算法研究[D]. 上海交通大学, 2013.
+Chen W N, Hang H M. H. 264/AVC motion estimation implmentation on compute unified device architecture (CUDA)[C]//2008 IEEE International Conference on Multimedia and Expo. IEEE, 2008: 697-700.
+Rodríguez-Sánchez R, Martínez J L, Fernández-Escribano G, et al. A fast GPU-based motion estimation algorithm for H. 264/AVC[C]//International Conference on Multimedia Modeling. Springer, Berlin, Heidelberg, 2012: 551-562.
+Monteiro E, Vizzotto B, Diniz C, et al. Parallelization of full search motion estimation algorithm for parallel and distributed platforms[J]. International Journal of Parallel Programming, 2014, 42(2): 239-264.
+Chen Z, Ji J, Li R. Asynchronous Parallel Computing Model of Global Motion Estimation with CUDA[J]. JCP, 2012, 7(2): 341-348.
+Rodriguez R, Martínez J L, Fernández-Escribano G, et al. Accelerating H. 264 inter prediction in a GPU by using CUDA[C]//2010 Digest of Technical Papers International Conference on Consumer Electronics (ICCE). IEEE, 2010: 463-464.
+Cheung N M, Fan X, Au O C, et al. Video coding on multicore graphics processors[J]. IEEE Signal Processing Magazine, 2010, 27(2): 79-89.
+朱秀昌, 李欣, 陈杰. 新一代视频编码标准——HEVC[D]. , 2013.
+刘昱, 胡晓爽, 段继忠. 新一代视频编码技术 HEVC 算法分析及比较[D]. , 2012.
+
+叶强. HEVC 视频编码算法的 CUDA 优化与应用[D]. 西安电子科技大学, 2015.
+Radicke S, Hahn J, Grecos C, et al. Highly-parallel HVEC motion estimation with CUDA [title missing from article PDF][C]//European Workshop on Visual Information Processing (EUVIP). IEEE, 2013: 148-153.
+Ma J, Luo F, Wang S, et al. Flexible CTU-level parallel motion estimation by CPU and GPU pipeline for HEVC[C]//2014 IEEE Visual Communications and Image Processing Conference. IEEE, 2014: 282-285.
+Luo F, Ma S, Ma J, et al. Multiple layer parallel motion estimation on GPU for High Efficiency Video Coding (HEVC)[C]//2015 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2015: 1122-1125.
+Kung M C, Au O C, Wong P H W, et al. Block based parallel motion estimation using programmable graphics hardware[C]//2008 International Conference on Audio, Language and Image Processing. IEEE, 2008: 599-603.
+Fouladi S, Wahby R S, Shacklett B, et al. Encoding, fast and slow: Low-latency video processing using thousands of tiny threads[C]//14th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 17). 2017: 363-376.
+赵丽丽, 张盛兵, 张萌, 等. 基于CUDA的高速FFT计算[D]. , 2011.
+王泽寰, 王鹏. GPU并行计算编程技术介绍[J]. 科研信息化技术与应用, 2013, 4(1): 81-87.
+Rec I. H. 265 and ISO/IEC 23008-2: High efficiency video coding[J]. ITU-T and ISO/IEC JTC, 2013, 1: 20.
+Ruiz D, Fernández-Escribano G, Martínez J L, et al. Fast intra mode decision algorithm based on texture orientation detection in HEVC[J]. Signal Processing: Image Communication, 2016, 44: 12-28.
+
+Paraschiv E G, Ruiz D, Pantoja M, et al. Texture orientation detection over parallel architectures: a qualitative overview[C]//Proceedings of the 17th International Conference on Computational and Mathematical Methods in Science and Engineering, CMMSE. 2017, 6: 2147-2158.
+Wang B, Alvarez-Mesa M, Chi C C, et al. Efficient HEVC decoder for heterogeneous CPU with GPU systems[C]//2016 IEEE 18th International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2016: 1-6.
+Takano F, Igarashi H, Moriyoshi T. 4K-UHD real-time HEVC encoder with GPU accelerated motion estimation[C]//2017 IEEE International Conference on Image Processing (ICIP). IEEE, 2017: 2731-2735.
+Luo F, Wang S, Ma S, et al. Fast intra coding unit size decision for HEVC with GPU based keypoint detection[C]//2017 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 2017: 1-4.
+Sullivan G J, Ohm J R, Han W J, et al. Overview of the high efficiency video coding (HEVC) standard[J]. IEEE Transactions on circuits and systems for video technology, 2012, 22(12): 1649-1668.
+Lainema J, Bossen F, Han W J, et al. Intra coding of the HEVC standard[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2012, 22(12): 1792-1801.
